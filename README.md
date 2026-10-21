@@ -1,1 +1,1 @@
-# aiml_trainin_program
+# aiml_training_program
